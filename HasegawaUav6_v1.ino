@@ -87,7 +87,7 @@ float kd_thrust = 3.0;
 float ki_thrust = 5.0;
 
 const float roll_ref = 0.0;
-float pitch_ref = 20; //離陸,25で飛ぶ
+float pitch_ref = -5; //離陸,25で飛ぶ
 const float pitch_ref_turn = 15.0; //旋回
 const float sideslip_ref = 15.0;
 const float radius_ref = 6.0;
